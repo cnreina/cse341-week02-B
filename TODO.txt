@@ -7,7 +7,6 @@ json
 
 VSCode tasks:
 heroku
-npm
 mongodb
 
 
